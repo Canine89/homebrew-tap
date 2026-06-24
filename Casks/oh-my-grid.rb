@@ -7,7 +7,7 @@ cask "oh-my-grid" do
   desc "Grid-based macOS window snapping tool"
   homepage "https://github.com/Canine89/oh-my-grid"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "oh-my-grid.app"
 
