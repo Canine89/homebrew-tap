@@ -4,7 +4,7 @@ cask "oh-my-grid" do
 
   url "https://github.com/Canine89/oh-my-grid/releases/download/v#{version}/oh-my-grid-#{version}.dmg"
   name "oh-my-grid"
-  desc "Grid-based macOS window snapping tool"
+  desc "Grid-based window snapping tool"
   homepage "https://github.com/Canine89/oh-my-grid"
 
   depends_on macos: :tahoe
