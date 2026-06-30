@@ -1,6 +1,6 @@
 cask "oh-my-grid" do
-  version "1.6.2"
-  sha256 "81257e938102b802eb6ef5dba15761ff132164bd5ab5395165bc0f35378f1327"
+  version "1.6.3"
+  sha256 "866cb0c8582a6d87101d887822eff07515766f3251a16bff1b9fd6947c571bb0"
 
   url "https://github.com/Canine89/oh-my-grid/releases/download/v#{version}/oh-my-grid-#{version}.dmg"
   name "oh-my-grid"
